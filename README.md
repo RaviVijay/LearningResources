@@ -12,15 +12,11 @@ Learning Resources for DL, CS and EE
 ## EE 
 [Caltech: Analog Ckt Design(2019)](https://www.youtube.com/watch?v=403CnTftB4M&list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
 
-[CM]
-
 [Chris Mack's Micro and Nano Fabrication at UTA(2013)](https://www.youtube.com/watch?v=yhq2IR9Xl_Y&list=PLM2eE_hI4gSDjK4SiDbhpmpjw31Xyqfo_)
 
 [Current Trends By Semiconductor Engineering](https://www.youtube.com/user/SperlingMediaGroup
 
 [VLSI CAD By Prof. Rob Rutenbar](https://www.youtube.com/watch?v=WLdbujc-aH4&list=PLai-xIlqf4Jl3BDIADGhPHMX1srl5TTRI)
-
-
 
 [Analog Layout](https://www.youtube.com/channel/UCgZEUbcl6Ma6r-Fi7SA6c9g)
 
@@ -31,8 +27,6 @@ Learning Resources for DL, CS and EE
 list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 [DeepMind RL(2018)](https://www.youtube.com/watch?v=ISk80iLhdfU&list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
-
-
 
 [UWash Mathematics of ML(2019)](https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
 
