@@ -2,15 +2,19 @@
 Learning Resources for DL, CS and EE
 
 ## Math
-[Fourier, Laplace Transforms by Prof. Steve Brunton](https://www.youtube.com/watch?v=jNC0jxb0OxE&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
+[Fourier, Laplace Transforms by Steve Brunton](https://www.youtube.com/watch?v=jNC0jxb0OxE&list=PLMrJAkhIeNNT_Xh3Oy0Y4LTj0Oxo8GqsC)
 
 [Linear Algebra by Trefor Bazett](https://www.youtube.com/watch?v=ZKUqtErZCiU&list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6)
 
 [SVD by Steve Brunton(2020)](https://www.youtube.com/watch?v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv)
 
+[Graph Theory by Sarada Herke](https://www.youtube.com/channel/UCV8tyRakGZuXUwD-wYH1yGg)
+
 
 ## EE 
-[Solid Overview of Digital CMOS Design(2019)](https://www.youtube.com/channel/UCHE7tZ3tzSqbr8L_kFjYAZA)
+[Solid Overview of Digital CMOS Design By Karim Abbas(2019)](https://www.youtube.com/channel/UCHE7tZ3tzSqbr8L_kFjYAZA)
+
+[Digital Design and Computer Architecture By Onur Mutlu(2020)](https://www.youtube.com/watch?v=AJBmIaUneB0&list=PL5Q2soXY2Zi_FRrloMa2fUYWPGiZUBQo2)
 
 [Caltech: Analog Ckt Design(2019)](https://www.youtube.com/watch?v=403CnTftB4M&list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
 
