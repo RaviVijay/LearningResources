@@ -14,7 +14,7 @@ Learning Resources for DL, CS and EE
 
 [Chris Mack's Micro and Nano Fabrication at UTA(2013)](https://www.youtube.com/watch?v=yhq2IR9Xl_Y&list=PLM2eE_hI4gSDjK4SiDbhpmpjw31Xyqfo_)
 
-[Current Trends By Semiconductor Engineering](https://www.youtube.com/user/SperlingMediaGroup
+[Current Trends By Semiconductor Engineering](https://www.youtube.com/user/SperlingMediaGroup)
 
 [VLSI CAD By Prof. Rob Rutenbar](https://www.youtube.com/watch?v=WLdbujc-aH4&list=PLai-xIlqf4Jl3BDIADGhPHMX1srl5TTRI)
 
