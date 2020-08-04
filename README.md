@@ -10,6 +10,8 @@ Learning Resources for DL, CS and EE
 
 
 ## EE 
+[Solid Overview of Digital CMOS Design(2019)](https://www.youtube.com/channel/UCHE7tZ3tzSqbr8L_kFjYAZA)
+
 [Caltech: Analog Ckt Design(2019)](https://www.youtube.com/watch?v=403CnTftB4M&list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
 
 [Chris Mack's Micro and Nano Fabrication at UTA(2013)](https://www.youtube.com/watch?v=yhq2IR9Xl_Y&list=PLM2eE_hI4gSDjK4SiDbhpmpjw31Xyqfo_)
