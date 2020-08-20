@@ -36,5 +36,8 @@ list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 
 [UWash Mathematics of ML(2019)](https://www.youtube.com/watch?v=3wbLr-NnIKI&list=PLTPQEx-31JXhguCush5J7OGnEORofoCW9)
 
+## VLSI
+
+[Testing(2020)](http://tiger.ee.nctu.edu.tw/course/Testing2020/schedule.html)
 
 
